@@ -1,0 +1,36 @@
+input {
+    height: 35px;
+    line-height: 50px;
+    text-indent: 10px;
+    width:500px;
+    border-radius: 5px;
+}
+
+.list-area{
+    width: 530px;
+    margin: auto;
+}
+
+.list {
+    text-align: center;
+}
+
+.list li {
+    font-weight: bold;
+    color: #006BB0;
+    list-style: none;
+    border-radius: 20px;
+    margin-top: 2px;
+    width: 420px;
+    padding: 10px;
+    background-color: whitesmoke;
+    border-bottom: solid 1px #f8f8f8;
+}
+
+
+
+.hospital-img{
+    width: 120px;
+    height: 120px;
+    margin-left: 190px;
+}
