@@ -9,7 +9,7 @@ class Contact extends Component {
 
     render() {
         return (
-            <h1>ContactMALSDMASLMDMLASLMDMLASMDLMLASDMLDSAMLDSMLASMLMDL</h1>
+            <h1>Contact değişmelilkl</h1>
         );
     }
 }
