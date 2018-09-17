@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7b02bc1-71bc-4b9f-a449-e149fbc4e884" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Contact.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -51,7 +51,7 @@
           <entry key="html" value="10" />
           <entry key="ico" value="2" />
           <entry key="jpg" value="6" />
-          <entry key="js" value="215" />
+          <entry key="js" value="216" />
           <entry key="json" value="2" />
           <entry key="png" value="16" />
           <entry key="svg" value="1" />
@@ -63,7 +63,7 @@
           <entry key="HTML" value="10" />
           <entry key="Image" value="24" />
           <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="215" />
+          <entry key="JavaScript" value="216" />
           <entry key="SVG" value="1" />
         </counts>
       </usages-collector>
@@ -89,20 +89,7 @@
     <favorites_list name="hospital" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Components/Contact.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -277,7 +264,7 @@
       <workItem from="1537118902307" duration="4818000" />
       <workItem from="1537124362817" duration="151000" />
       <workItem from="1537175121762" duration="5800000" />
-      <workItem from="1537194102815" duration="1306000" />
+      <workItem from="1537194102815" duration="1955000" />
     </task>
     <task id="LOCAL-00001" summary="all directory">
       <created>1537194801385</created>
@@ -290,11 +277,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156624000" />
+    <option name="totallyTimeSpent" value="157273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49776787" visible="true" weight="0.18898809" />
       <window_info id="Structure" order="1" sideWeight="0.50223213" side_tool="true" weight="0.2846442" />
@@ -517,8 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Contact.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
