@@ -1,0 +1,12 @@
+.contact-container{
+    color:white;
+}
+
+.icon{
+    display: inline-block;
+}
+.mail{
+    display: inline-block;
+    vertical-align: center;
+    margin: 3px;
+}

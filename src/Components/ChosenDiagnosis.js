@@ -54,29 +54,31 @@ class ChosenDiagnosis extends Component {
 
 
         return (
-            <div className={'list-area'}>
-                <div className={'container'}>
-                    <div className={'row'}>
-                        <div className={'col-md-4'}>
-                            <img  className={'hospital-img'} src={Hospital} alt={'Hospital Images'}/>
-                            <input
-                                name={'filter'}
-                                id={'filter'}
-                                value={this.state.filterText}
-                                placeholder={'Aradığınız hastanenin adını yazınız.'}
-                                onChange={this.onChangeFilterText}
-                            />
-                        </div>
+            <div className={'container'}>
+                <div className={'row'}>
+                    <div className={'col-md-4 col-md-offset-4 col-sm-4 col-sm-offset-5'}>
+                        <img  className={'hospital-img'} src={Hospital} alt={'Hospital Images'}/>
                     </div>
-                    <div className={'row'}>
-                        <div className={'col-md-4'}>
-                            <ul className={'list'}>
-                                {
-                                    filteredHospitals.map ( hospital=>
-                                        <li>{hospital.HospitalName} - {this.state.diagnosisName} ücreti  => {hospital.Charge} TL</li> )
-                                }
-                            </ul>
-                        </div>
+                </div>
+                <div className={'row'}>
+                    <div className={'col-md-4 col-md-offset-4 col-sm-4 col-sm-offset-5'}>
+                        <input
+                            name={'filter'}
+                            id={'filter'}
+                            value={this.state.filterText}
+                            placeholder={'Aradığınız hastanenin adını yazınız.'}
+                            onChange={this.onChangeFilterText}
+                        />
+                    </div>
+                </div>
+                <div className={'row'}>
+                    <div className={'col-md-4 col-md-offset-4 col-sm-4 col-sm-offset-5'}>
+                        <ul className={'list'}>
+                            {
+                                filteredHospitals.map ( hospital=>
+                                    <li>{hospital.HospitalName} - {this.state.diagnosisName} ücreti  - {hospital.Charge} TL</li> )
+                            }
+                        </ul>
                     </div>
                 </div>
             </div>

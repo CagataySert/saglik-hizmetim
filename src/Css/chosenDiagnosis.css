@@ -2,13 +2,8 @@ input {
     height: 35px;
     line-height: 50px;
     text-indent: 10px;
-    width:500px;
     border-radius: 5px;
-}
-
-.list-area{
-    width: 530px;
-    margin: auto;
+    width: 100%;
 }
 
 .list {
@@ -21,10 +16,10 @@ input {
     list-style: none;
     border-radius: 20px;
     margin-top: 2px;
-    width: 420px;
     padding: 10px;
     background-color: whitesmoke;
     border-bottom: solid 1px #f8f8f8;
+    margin-left: -30px;
 }
 
 
@@ -32,5 +27,5 @@ input {
 .hospital-img{
     width: 120px;
     height: 120px;
-    margin-left: 190px;
+    margin-left: 110px;
 }
